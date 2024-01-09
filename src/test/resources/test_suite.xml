@@ -1,0 +1,8 @@
+<suiteXmlFiles>
+    <suiteXmlFile>
+        src/test/resources/parametrized_test.xml
+    </suiteXmlFile>
+    <suiteXmlFile>
+        src/test/resources/registration_test.xml
+    </suiteXmlFile>
+</suiteXmlFiles>
